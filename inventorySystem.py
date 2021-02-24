@@ -24,6 +24,14 @@ PRODUCT_PRICE = IntVar()
 PRODUCT_QTY = IntVar()
 SEARCH = StringVar()
 
+#========================================This is for the Second gitHub commit========================================
+USERNAME = StringVar()
+PASSWORD = StringVar()
+PRODUCT_NAME = StringVar()
+PRODUCT_PRICE = IntVar()
+PRODUCT_QTY = IntVar()
+SEARCH = StringVar()
+
 #========================================METHODS==========================================
 
 def Database():
